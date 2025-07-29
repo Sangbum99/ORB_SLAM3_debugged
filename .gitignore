@@ -1,0 +1,17 @@
+build/
+bin/
+lib/
+
+Examples_old/
+
+Examples/Calibration/
+Examples/Monocular/
+Examples/Stereo/
+Examples/RGB-D/
+Examples/RGB-D-Inertial/
+
+ThirdParty/DBoW2/build/
+ThirdParty/g2o/build/
+ThirdParty/Sophus/build/
+
+Vocabulary/ORBvoc.txt
